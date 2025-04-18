@@ -43,7 +43,7 @@
 
 - **Run Application on Local machine** -> 
   You can clone this in your local machine using this in your terminal -
-  - git clone https://github.com/aditya-rane-miq/Bridge-Dashboard.git
+  - git clone https://github.com/PoojaN60/Bridge-Dashboard.git
   - cd Bridge-Dashboard
   - create virtual venv
   - pip install -r requirements.txt
@@ -56,7 +56,7 @@
 
 ## 🌍 UI Integration
 
-![image](https://github.com/user-attachments/assets/e3c7bf18-c08b-4f5f-b3fd-493221e76218)
+![image](https://github.com/user-attachments/assets/b4c61cb5-efff-4147-880a-de2cfd07c5c9)
 
 
 
